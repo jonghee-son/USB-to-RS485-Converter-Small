@@ -1943,7 +1943,7 @@
 				)
 			)
 		)
-		(symbol "SamacSys_Parts:SMBJ43CA"
+		(symbol "SamacSys_Parts:SMBJ7.0CA"
 			(pin_names
 				(offset 0.762)
 			)
@@ -1959,7 +1959,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "SMBJ43CA"
+			(property "Value" "SMBJ7.0CA"
 				(at 12.7 6.35 0)
 				(effects
 					(font
@@ -1978,7 +1978,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf"
+			(property "Datasheet" "https://www.mouser.in/datasheet/2/240/Littelfuse_TVS_Diode_SMBJ_Datasheet_pdf-1108540.pdf"
 				(at 12.7 1.27 0)
 				(effects
 					(font
@@ -1988,7 +1988,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Littelfuse SMBJ43CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA"
+			(property "Description" "Diode TVS Single Bi-Dir 7V 600W 2-Pin SMB T/R"
 				(at 12.7 -1.27 0)
 				(effects
 					(font
@@ -2008,7 +2008,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "LITTELFUSE"
+			(property "Mouser Part Number" "576-SMBJ7.0CA"
 				(at 12.7 -6.35 0)
 				(effects
 					(font
@@ -2018,7 +2018,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "SMBJ43CA"
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0CA?qs=JJML70Qc14vq5Br2plkn1g%3D%3D"
 				(at 12.7 -8.89 0)
 				(effects
 					(font
@@ -2028,7 +2028,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "576-SMBJ43CA"
+			(property "Manufacturer_Name" "LITTELFUSE"
 				(at 12.7 -11.43 0)
 				(effects
 					(font
@@ -2038,7 +2038,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ43CA?qs=HR2RnyOI4E5KHCN9Vj4RZA%3D%3D"
+			(property "Manufacturer_Part_Number" "SMBJ7.0CA"
 				(at 12.7 -13.97 0)
 				(effects
 					(font
@@ -2048,27 +2048,7 @@
 					(hide yes)
 				)
 			)
-			(property "Arrow Part Number" "SMBJ43CA"
-				(at 12.7 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/smbj43ca/littelfuse?region=nac"
-				(at 12.7 -19.05 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(symbol "SMBJ43CA_0_0"
+			(symbol "SMBJ7.0CA_0_0"
 				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
@@ -2106,7 +2086,7 @@
 					)
 				)
 			)
-			(symbol "SMBJ43CA_0_1"
+			(symbol "SMBJ7.0CA_0_1"
 				(polyline
 					(pts
 						(xy 9.144 2.54) (xy 10.16 2.032)
@@ -3902,6 +3882,252 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:SMBJ7.0CA")
+		(at 219.71 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1797a710-e0d6-4969-ae19-8b25d7a09f43")
+		(property "Reference" "D1"
+			(at 223.52 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMBJ7.0CA"
+			(at 223.52 106.6799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "DIONM5436X261N"
+			(at 223.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.in/datasheet/2/240/Littelfuse_TVS_Diode_SMBJ_Datasheet_pdf-1108540.pdf"
+			(at 220.98 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode TVS Single Bi-Dir 7V 600W 2-Pin SMB T/R"
+			(at 218.44 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.61"
+			(at 215.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "576-SMBJ7.0CA"
+			(at 213.36 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0CA?qs=JJML70Qc14vq5Br2plkn1g%3D%3D"
+			(at 210.82 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "LITTELFUSE"
+			(at 208.28 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SMBJ7.0CA"
+			(at 205.74 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20f99293-1426-4c9e-bed7-a2208015071b")
+		)
+		(pin "2"
+			(uuid "e8d0a2ca-14cc-4917-a144-6c636a792f37")
+		)
+		(instances
+			(project "USB-to-RS485-Converter-Small"
+				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:SMBJ7.0CA")
+		(at 200.66 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2457e66d-dd7c-4dcb-b875-febf015d33a7")
+		(property "Reference" "D2"
+			(at 204.47 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMBJ7.0CA"
+			(at 204.47 106.6799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "DIONM5436X261N"
+			(at 204.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.in/datasheet/2/240/Littelfuse_TVS_Diode_SMBJ_Datasheet_pdf-1108540.pdf"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode TVS Single Bi-Dir 7V 600W 2-Pin SMB T/R"
+			(at 199.39 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.61"
+			(at 196.85 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "576-SMBJ7.0CA"
+			(at 194.31 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0CA?qs=JJML70Qc14vq5Br2plkn1g%3D%3D"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "LITTELFUSE"
+			(at 189.23 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SMBJ7.0CA"
+			(at 186.69 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d5d5f06-0398-46a0-9c6d-96fda2d1e085")
+		)
+		(pin "2"
+			(uuid "46b867a1-b7d6-42c9-a4c8-792f4559b3cf")
+		)
+		(instances
+			(project "USB-to-RS485-Converter-Small"
+				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:USB_B")
 		(at 50.8 91.44 0)
 		(unit 1)
@@ -4248,149 +4474,6 @@
 			(project "USB-to-RS485-Converter-Small"
 				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:SMBJ43CA")
-		(at 200.66 115.57 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "82a72192-54b6-4a81-9075-24826dbc2d77")
-		(property "Reference" "D2"
-			(at 204.47 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SMBJ43CA"
-			(at 204.47 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "DIONM5436X261N"
-			(at 196.85 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf"
-			(at 199.39 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "Littelfuse SMBJ43CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA"
-			(at 201.93 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Height" "2.61"
-			(at 204.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "LITTELFUSE"
-			(at 207.01 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SMBJ43CA"
-			(at 209.55 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "576-SMBJ43CA"
-			(at 212.09 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ43CA?qs=HR2RnyOI4E5KHCN9Vj4RZA%3D%3D"
-			(at 214.63 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "SMBJ43CA"
-			(at 217.17 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/smbj43ca/littelfuse?region=nac"
-			(at 219.71 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "093d3d2f-89a4-4fb7-ba09-7d1e9f6ea8c2")
-		)
-		(pin "2"
-			(uuid "95c088a9-5ce9-4917-a24d-09592b1d2256")
-		)
-		(instances
-			(project "USB-to-RS485-Converter-Small"
-				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4883,149 +4966,6 @@
 			(project "USB-to-RS485-Converter-Small"
 				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:SMBJ43CA")
-		(at 219.71 95.25 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b145025d-f557-4418-8912-ae9ca4499fc7")
-		(property "Reference" "D1"
-			(at 223.52 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMBJ43CA"
-			(at 223.52 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "DIONM5436X261N"
-			(at 223.52 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf"
-			(at 220.98 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "Littelfuse SMBJ43CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA"
-			(at 218.44 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Height" "2.61"
-			(at 215.9 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "LITTELFUSE"
-			(at 213.36 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SMBJ43CA"
-			(at 210.82 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "576-SMBJ43CA"
-			(at 208.28 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ43CA?qs=HR2RnyOI4E5KHCN9Vj4RZA%3D%3D"
-			(at 205.74 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "SMBJ43CA"
-			(at 203.2 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/smbj43ca/littelfuse?region=nac"
-			(at 200.66 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c6d3f099-ea5f-4ba1-9118-133a2947554b")
-		)
-		(pin "2"
-			(uuid "9b8f5468-aee7-4f34-90c5-a9f97fa28430")
-		)
-		(instances
-			(project "USB-to-RS485-Converter-Small"
-				(path "/44eb492e-2114-45a2-84db-c63f5192c768"
-					(reference "D1")
 					(unit 1)
 				)
 			)
