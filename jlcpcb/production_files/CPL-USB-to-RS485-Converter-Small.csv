@@ -6,7 +6,6 @@ C4,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,135.6875,-110.0875,-90.0,top
 D3,GREEN,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,137.2425,-86.5875,0.0,top
 D4,RED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,137.3125,-89.5875,0.0,top
 D5,SM712_SOT23,SOT-23,158.55,-105.4375,-90.0,top
-FL1,MCZ1210AH201CPTA0G,MCZ1210AH201CPTA0G,166.5,-100.0,-90.0,top
 J1,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,159.6875,-90.0825,0.0,top
 J2,USB_B,USB_B_Lumberg_2411_02_Horizontal,121.1575,-100.8375,180.0,top
 J3,DE9_Plug_MountingHoles,DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm,173.077169,-100.5775,90.0,top
